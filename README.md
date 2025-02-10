@@ -1,5 +1,3 @@
-# zakinuhan-qa-engineer-portfolio
-
 # Zaki Nuhan - Quality Assurance Engineer
 
 ![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Portfolio)
@@ -33,6 +31,7 @@ A dedicated **Quality Assurance Engineer** with **4+ years of experience** ensur
 - Collaborate with developers and product teams to deliver reliable software.
 - Create and execute **test cases, test plans, and UAT documentation**.
 - Identify and report defects, ensuring smooth feature rollouts.
+- Assist in **documentation for ISO 9001:2015 and ISO 27001:2013 compliance**.  
 
 ### **Quality Assurance Game Tester**  
 📍 Gameloft Indonesia  
@@ -57,9 +56,12 @@ A dedicated **Quality Assurance Engineer** with **4+ years of experience** ensur
 ---
 
 ## 📂 Projects & Portfolio
-- **[Project 1 - Web Application Testing](#)** (Description & role)
-- **[Project 2 - Game Testing Report](#)** (Description & role)
-- **[Test Case Documentation](#)** (Sample test cases & reports)
+- **[Test Case - Grab](https://docs.google.com/spreadsheets/d/1I07ifM2JbIUk637O8vXory6AMXNwVadzCmb964RbG_I/edit?usp=sharing)**  
+- **[Testing Documentation - Mentor Feature in Dealls.com](https://docs.google.com/document/d/1lm7ma80lt0xH38RQpMX6bPH2MX6qllZx32zq32Yn9J4/edit?usp=sharing)**  
+
+---
+
+## - 📄 **[Download My CV](https://drive.google.com/file/d/1Hoz3K-4dSxwDCkP-7Udb22QmCVHccSSS/view?usp=sharing)**  
 
 ---
 
