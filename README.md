@@ -1,6 +1,6 @@
 # Zaki Nuhan - Quality Assurance Engineer
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Portfolio)
+![Profile Banner](https://cdn.dribbble.com/users/5184209/screenshots/14724314/media/3998fa13c610927f8bad52fb7817a6f3.jpg?resize=1000x750&vertical=center)
 
 ## 🚀 About Me
 A dedicated **Quality Assurance Engineer** with **4+ years of experience** ensuring software quality through **manual testing, functional testing, non-functional testing, and game testing**. Skilled in **test planning, bug tracking, and defect lifecycle management**. Experienced in working on **web applications and popular mobile games**.
@@ -8,6 +8,7 @@ A dedicated **Quality Assurance Engineer** with **4+ years of experience** ensur
 📧 **Email:** zakinuhan76@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/zaki-nuhan](https://linkedin.com/in/zaki-nuhan/)  
 📞 **Phone:** +62 851 5675 0776  
+📍 **Location:** Yogyakarta, Indonesia
 
 ---
 
@@ -55,18 +56,19 @@ A dedicated **Quality Assurance Engineer** with **4+ years of experience** ensur
 
 ---
 
-## 📂 Projects & Portfolio
+## 📂 Portfolio
 - **[Test Case - Grab](https://docs.google.com/spreadsheets/d/1I07ifM2JbIUk637O8vXory6AMXNwVadzCmb964RbG_I/edit?usp=sharing)**  
-- **[Testing Documentation - Mentor Feature in Dealls.com](https://docs.google.com/document/d/1lm7ma80lt0xH38RQpMX6bPH2MX6qllZx32zq32Yn9J4/edit?usp=sharing)**  
+- **[Testing Documentation - Mentor Feature in Dealls.com (Test Scenario, Test Case, Bug Report)](https://docs.google.com/document/d/1lm7ma80lt0xH38RQpMX6bPH2MX6qllZx32zq32Yn9J4/edit?usp=sharing)**  
+- **[Fake Project Porto (Test Scenario, Test Case, Bug Report)](https://docs.google.com/document/d/1W06AghcvWum91x7UdLnvFsfjklV1TfOVt8rqUrV2dK0/edit?usp=sharing)**  
 
 ---
 
-## - 📄 **[Download My CV](https://drive.google.com/file/d/1Hoz3K-4dSxwDCkP-7Udb22QmCVHccSSS/view?usp=sharing)**  
+## 📄 **[Download My CV](https://drive.google.com/file/d/1Hoz3K-4dSxwDCkP-7Udb22QmCVHccSSS/view?usp=sharing)**  
 
 ---
 
 ## 📩 Contact Me
-💌 Feel free to reach out via **[Email](mailto:zakinuhan76@gmail.com)** or **[LinkedIn](https://linkedin.com/in/zaki-nuhan/)** if you're interested in working together!
+💌 Feel free to reach out via **[Email](mailto:zakinuhan76@gmail.com)**, **WhatsApp:** [Chat with me](https://wa.me/+6285156750776) or **[LinkedIn](https://linkedin.com/in/zaki-nuhan/)** if you're interested in working together!
 
 ---
 
