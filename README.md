@@ -66,7 +66,7 @@ A dedicated **Quality Assurance Engineer** with **4+ years of experience** ensur
 ---
 
 ## 📩 Contact Me
-💌 Feel free to reach out via **[Email](mailto:zakinuhan76@gmail.com)**, **WhatsApp:** [Chat with me](https://wa.me/+6285156750776) or **[LinkedIn](https://linkedin.com/in/zaki-nuhan/)** if you're interested in working together!
+💌 Feel free to reach out via **[Email](mailto:zakinuhan76@gmail.com)**, **[WhatsApp](https://wa.me/+6285156750776)**, or **[LinkedIn](https://linkedin.com/in/zaki-nuhan/)** if you're interested in working together!
 
 ---
 
