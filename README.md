@@ -1,7 +1,9 @@
 # Zaki Nuhan - Quality Assurance Engineer
 
 ## 🚀 About Me
-A dedicated **Quality Assurance Engineer** with **4+ years of experience** ensuring software quality through **manual testing, functional testing, non-functional testing, and game testing**. Skilled in **test planning, bug tracking, and defect lifecycle management**. Experienced in working on **web applications and popular mobile games**.
+A dedicated **Quality Assurance Engineer with over 5 years of experience in software quality assurance and
+customer-facing support. Experienced in manual testing, API testing, regression testing, bug tracking, and
+collaborating with cross-functional teams to improve product quality and user experience.**.
 
 📧 **Email:** zakinuhan76@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/zaki-nuhan](https://linkedin.com/in/zaki-nuhan/)  
