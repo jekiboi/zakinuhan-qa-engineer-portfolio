@@ -63,7 +63,7 @@ collaborating with cross-functional teams to improve product quality and user ex
 
 ---
 
-## 📄 **[Download My CV](https://drive.google.com/file/d/1Hoz3K-4dSxwDCkP-7Udb22QmCVHccSSS/view?usp=sharing)**  
+## 📄 **[Download My CV]([https://drive.google.com/file/d/1Hoz3K-4dSxwDCkP-7Udb22QmCVHccSSS/view?usp=sharing](https://drive.google.com/file/d/1e9uoWe4Zxo-aGY5s8B_-Dgat562AQjli/view?usp=sharing))**  
 
 ---
 
